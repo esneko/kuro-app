@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# production
+/build
+
+# testing
+/coverage
+
+#logs
+yarn-debug.log*
+yarn-error.log*
+
+# misc
+.DS_Store
